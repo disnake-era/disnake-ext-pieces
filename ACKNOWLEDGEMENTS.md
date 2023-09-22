@@ -27,7 +27,7 @@ DEALINGS IN THE SOFTWARE.
 ```
 
 This project was initially based on [disnake-ext-plugins](https://github.com/DisnakeCommunity/disnake-ext-plugins)
-and includes portions of source files from it subject the following license:
+and includes portions of source files from it subject to the following license:
 
 ```
 The MIT License (MIT)
