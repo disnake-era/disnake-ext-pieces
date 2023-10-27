@@ -93,7 +93,7 @@ update = ["--no-editable"]
 
 [tool.pdm.build]
 # nested namespace pkgs are not detected automatically as per PEP 420 & python-packaging docs
-includes = ["disnake/ext/pieces"]
+includes = ["disnake/ext/pieces", "ACKNOWLEDGEMENTS.md"]
 
 [tool.pyright]
 typeCheckingMode = "strict"
