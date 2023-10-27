@@ -4,6 +4,10 @@
 
 Bot modularization, done right.
 
+> Note: this project was originally a fork of [disnake-ext-plugins](https://github.com/Chromosologist/disnake-ext-plugins).
+> At some point my childish brain decided it would be cool to rebrand - that's how -plugins turned into -pieces - but stuff has changed since then and -pieces will no longer be maintained as a disnake extension.
+> Therefore, for long-term projects it is recommended to use the original -plugins instead.
+
 ## Example
 
 ```py
